@@ -1,0 +1,11 @@
+1. Alt text missing for logo
+2. Missing focus indicator
+3. Placeholder as Label
+4. Poor Color contrast
+5. Autoplaying Video on page load
+6. Autoplaying video couldn't be paused or stopped
+7. No Subtitles for Videos
+8. Table/Fixed width layout not good on mobile
+9. Menus that work with Mouse alone
+10. Send Link on Top menu opens modal dialogs that work with Mouse ony
+11. Lack of labels for form fields inside Modal dialog
