@@ -11,10 +11,11 @@ Created this website with many accessibility barriers, which a web designer or d
 
 ## Identifying icons without labels
 This is a game created to test how many icons does people can identify if there are no alternate labels
-Users were shown an icon and then four label options below, of which only one was the correct answer. There were 19 icons in total, and all the icons were taken from popular iOS apps 
- [Signified Game](http://www.motionbrothers.co.uk/signified/)
+Users were shown an icon and then four label options below, of which only one was the correct answer. There were 19 icons in total, and all the icons were taken from popular iOS apps
 
-[Article- Do Icons Need Labels?](https://uxdesign.cc/do-icons-need-labels-6cb4f4282c00#.zgrvrbdfj)
+* [Signified Game](http://www.motionbrothers.co.uk/signified/)
+
+* [Article- Do Icons Need Labels?](https://uxdesign.cc/do-icons-need-labels-6cb4f4282c00#.zgrvrbdfj)
 
 ## Blindfold and ask them to identify currencies and coins
 [Sample photo of identifying currency while blind folded](https://flic.kr/p/qHiwbe)
