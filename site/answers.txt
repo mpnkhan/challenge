@@ -7,5 +7,5 @@
 7. No Subtitles for Videos
 8. Table/Fixed width layout not good on mobile
 9. Menus that work with Mouse alone
-10. Send Link on Top menu opens modal dialogs that work with Mouse ony
+10. Send Link on Top menu opens modal dialogs that work with Mouse only
 11. Lack of labels for form fields inside Modal dialog
